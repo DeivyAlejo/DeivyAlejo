@@ -8,7 +8,7 @@ I am a Mechatronics Engineer and Technician in Computer Systems. I am passionate
 - OpenCV
 
 ## Links
--[LinkedIn](https://www.linkedin.com/in/deivymunoz/?locale=en_US)
+- [LinkedIn](https://www.linkedin.com/in/deivymunoz/?locale=en_US)
 
 ## More about me
 - I am from Colombia but I recently moved to Canada to study Computer Systems.
