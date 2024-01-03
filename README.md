@@ -1,5 +1,5 @@
 # Hi 🖖🏼 my name is Deivy Munoz
-I am a Mechatronics Engineer and Technician in Computer Science. I am passionate about technology, specifically Image Processing and Machine Learning. But I also enjoy working with Electronics and Embedded Programming. 
+I am a Mechatronics Engineer and Technician in Computer Systems. I am passionate about technology, specifically Image Processing and Machine Learning. But I also enjoy working with Electronics and Embedded Programming. 
 ### Looking for a software position job.
 
 ## Skills
