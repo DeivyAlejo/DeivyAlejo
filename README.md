@@ -1,6 +1,5 @@
 # Hi 🖖🏼 my name is Deivy Munoz
-I am a Mechatronics Engineer and Technician in Computer Systems. I am passionate about technology, specifically Software Development, Image Processing, and Machine Learning. But I also enjoy working with Electronics and Embedded Programming. 
-### Looking for a software position job.
+As a multidisciplinary professional with a strong foundation in electronics, software development, and academic research, I bring hands-on experience in failure analysis, embedded systems, and computer vision. Currently at Evertz Microsystems, I troubleshoot complex hardware issues on high-performance broadcast equipment and collaborate on Linux-based diagnostics. My previous work spans backend development in Python and C++, image processing with OpenCV, and engineering education. With a Master's in Electronics Instrumentation and a diploma in Computer Systems, I thrive at the intersection of hardware and software, solving real-world problems through innovation and precision.
 
 ## Skills
 - Python
@@ -8,9 +7,4 @@ I am a Mechatronics Engineer and Technician in Computer Systems. I am passionate
 - OpenCV
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/deivymunoz/?locale=en_US)
-
-## More about me
-- I am from Colombia but I recently moved to Canada to study Computer Systems.
-- I am learning how to fly FPV drones using [Tiny Whoop GO](https://tinywhoopgo.com/) and [this controller](https://newbeedrone.com/products/jumper-t-pro-with-2-4g-1000mw-expresslrs-elrs-internal-module-radio-controller). Shortly I would like to build my mini whoop drone.
-- I really like motorcycles. I had motorcycles previously in my home country, and I am pursuing my motorcycle license in Canada. I am considering buying a small motorcycle, like the [Honda Grom](https://powersports.honda.ca/en/minimoto/2024/models?trim=grom_13340).
+- [LinkedIn](https://www.linkedin.com/in/deivymunoz)
